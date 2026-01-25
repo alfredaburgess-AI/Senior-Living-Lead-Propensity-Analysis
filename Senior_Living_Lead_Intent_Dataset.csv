@@ -1,0 +1,925 @@
+Record ID,Original Traffic Source,Lead Status,Associated Note,intent_score
+191145000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.7
+150247000000.0,Organic Search,Connected,Note redacted for privacy compliance,0.7
+160171000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.7
+152673000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.7
+171920000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.7
+160176000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.7
+160151000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.7
+160111000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.7
+150612000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.7
+160123000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.7
+160091000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.7
+160152000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.7
+146560000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.7
+160179000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.7
+160168000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.4
+172232000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.4
+163869000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+163302000000.0,Organic Search,In Progress,Note redacted for privacy compliance,0.3
+191131000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+157670000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160179000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+158750000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160108000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160143000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160165000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160166000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160108000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160168000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+161502000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160166000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160179000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160167000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+191131000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160168000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+151630000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160180000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+146556000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+146880000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+148921000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.3
+160045000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+150013000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160178000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+150206000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160177000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+160168000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+163869000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160166000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.3
+160179000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+160168000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.3
+160165000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.3
+162921000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.3
+159063000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159108000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159105000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159010000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+159084000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159106000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159070000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158993000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158945000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158893000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159101000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159034000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159103000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159067000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159109000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159125000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159109000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159120000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159328000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159304000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159317000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159308000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159304000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159305000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159303000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159294000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158893000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+159163000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159155000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159146000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159142000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159136000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158955000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159132000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159116000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159117000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159116000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159126000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159115000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159124000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159109000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159111000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159110000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158944000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158877000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158918000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158925000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158628000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158637000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158617000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158616000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158624000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158623000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158601000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158602000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158594000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158575000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158592000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158579000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158583000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158571000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158582000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158560000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158569000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158554000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+158600000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+158551000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157424000000.0,Organic Search,In Progress,Note redacted for privacy compliance,0.0
+158640000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158634000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158700000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158899000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158926000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158929000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158928000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158924000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158916000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158903000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158903000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158922000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158899000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158889000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158784000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+158888000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158894000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159337000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158868000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158867000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158872000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158861000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158864000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158840000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159343000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159730000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159361000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+160166000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160168000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160165000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160163000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160165000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160158000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160166000000.0,Offline Sources,,Note redacted for privacy compliance,0.0
+160087000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160166000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160171000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160091000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160108000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,,Note redacted for privacy compliance,0.0
+160178000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160074000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160074000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160106000000.0,Paid Search,New,Note redacted for privacy compliance,0.0
+160071000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+160049000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+160035000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160025000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160023000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+159386000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+160044000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160098000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160169000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160166000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160169000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160119000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160103000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160168000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160176000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160161000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160119000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160148000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160148000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160070000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160152000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160099000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160166000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160106000000.0,Paid Search,Connected,Note redacted for privacy compliance,0.0
+160169000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160177000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160021000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160010000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159999000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+160020000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158514000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+159715000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159714000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159712000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159688000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+159683000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159712000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159676000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159675000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159675000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159666000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159646000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159667000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159660000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159667000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159597000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159553000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+159553000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+159381000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159386000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159386000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159737000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159625000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159932000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160016000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160013000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+159988000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160014000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+159988000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159971000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159986000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159950000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+159882000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159876000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159855000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+159857000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+159677000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+159727000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+158484000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+158299000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158515000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156555000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156546000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156524000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+156511000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+156474000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.0
+156410000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156409000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156388000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+156410000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+155864000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+156386000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+156364000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156323000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156303000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156322000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+156300000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156321000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156320000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156318000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156295000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156259000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+156229000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156192000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156189000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156186000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+156181000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156542000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156583000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+158320000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+156593000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156888000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156883000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156888000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+156881000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156826000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156877000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156856000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156809000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156808000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156767000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156701000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+156701000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+156701000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156701000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+156704000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156704000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156694000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156672000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156651000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156626000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+156611000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+156595000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156595000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156595000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156582000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+156096000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156048000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156046000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+155989000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+151678000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+153588000000.0,,Connected,Note redacted for privacy compliance,0.0
+153428000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+153244000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+153222000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+153192000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+150249000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+152908000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.0
+152703000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.0
+152650000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+152528000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+152480000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+152356000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+151865000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+151834000000.0,Offline Sources,,Note redacted for privacy compliance,0.0
+151726000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+151517000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+150507000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+150266000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+150258000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+150035000000.0,Organic Search,Connected,Note redacted for privacy compliance,0.0
+150002000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+149905000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+149728000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+146427000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+153984000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+154031000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+154268000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+155849000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+156067000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+155986000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156063000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+155984000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156031000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156017000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+155980000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+155980000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+155979000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+155919000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+155892000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+155808000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+154369000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+155826000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+155659000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+155466000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+155101000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+155094000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+155033000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+154945000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+154822000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+154634000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+154646000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+154434000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+156886000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156886000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+156886000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157494000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157959000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158011000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158008000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+158009000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+157950000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157937000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+157937000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157986000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+157929000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+157929000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157924000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157921000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157915000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157670000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+157700000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+157521000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157535000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157531000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+157468000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157501000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157467000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157466000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157466000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157491000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157465000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+158012000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157966000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158048000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+158273000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158316000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158312000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158297000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158278000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158305000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158282000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158303000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158299000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158286000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158276000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158271000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158258000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+157984000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+158271000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158260000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158260000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158257000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158255000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+158249000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158246000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158234000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+158027000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+158027000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+158191000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157462000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157493000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156889000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157458000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157176000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+157156000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157111000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157075000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157061000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+157048000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157036000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157044000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157036000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157036000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157043000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157027000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157015000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157026000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157026000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157019000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156997000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156983000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156972000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+156964000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156897000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+156894000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156895000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+156904000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+156889000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157166000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157182000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157172000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157282000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157453000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157453000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157455000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157451000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157451000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157484000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157426000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157479000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+157229000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+157431000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+157305000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157231000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157179000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+157230000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157226000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157224000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157222000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157224000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157209000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157206000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157197000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157198000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+157200000000.0,Paid Search,In Progress,Note redacted for privacy compliance,0.0
+157197000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+160103000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+192521000000.0,,Connected,Note redacted for privacy compliance,0.0
+160122000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.0
+184995000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+181529000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+181448000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+181254000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+181004000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+181041000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+180895000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+174416000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+180519000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+180481000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+180297000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+180285000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+180167000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+179800000000.0,Other Campaigns,Unqualified,Note redacted for privacy compliance,0.0
+179802000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+179268000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+179175000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+179175000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+179198000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+178674000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+179098000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+179026000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+179025000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+178905000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+178833000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+178699000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+181530000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+181531000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.0
+181530000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+183444000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+185210000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+185127000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+185016000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+185008000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+184983000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+178998000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+183704000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+183813000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+182196000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+183444000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+183444000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+183441000000.0,Organic Search,Connected,Note redacted for privacy compliance,0.0
+181529000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+183245000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+182668000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+182559000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+182648000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+182221000000.0,Direct Traffic,In Progress,Note redacted for privacy compliance,0.0
+175765000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+182221000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+181990000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+181944000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+181613000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+181529000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+178678000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+178638000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+178332000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+175390000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+176073000000.0,Direct Traffic,New,Note redacted for privacy compliance,0.0
+167728000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+175813000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+175813000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+175606000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+175584000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+175578000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+175577000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+175539000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+175445000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+175428000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+175346000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+176259000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+175288000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+175285000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+175276000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+175267000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+175264000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+175239000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+175204000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+175176000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+175190000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+175190000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+175176000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+176169000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+176142000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+178251000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+177137000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+178204000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+177659000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+177531000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+177531000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+177494000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.0
+177465000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+177222000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+177210000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+177147000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+177106000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+177106000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+177127000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+176073000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+177070000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+176698000000.0,Offline Sources,,Note redacted for privacy compliance,0.0
+176690000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+176672000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+176698000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+176662000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+176487000000.0,Other Campaigns,,Note redacted for privacy compliance,0.0
+176476000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+176483000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+176449000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+176467000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+185213000000.0,Direct Traffic,New,Note redacted for privacy compliance,0.0
+185207000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+174973000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+185230000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+191167000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+190943000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+191145000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+191143000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+190943000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+190981000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+190964000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+190963000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+190952000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+190947000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+190946000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+190906000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+190560000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+190519000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+190361000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+190314000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+189896000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+189380000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+189652000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+189618000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+189470000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+189380000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+189451000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+189380000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+189217000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+191179000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+191167000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+191167000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+191897000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+192666000000.0,,,Note redacted for privacy compliance,0.0
+192352000000.0,,,Note redacted for privacy compliance,0.0
+192351000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+192351000000.0,,Connected,Note redacted for privacy compliance,0.0
+192318000000.0,,,Note redacted for privacy compliance,0.0
+191639000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+191755000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+192095000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+191737000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+191979000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+191911000000.0,,Attempted to Contact,Note redacted for privacy compliance,0.0
+191467000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+191216000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+191579000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+191565000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+191529000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+191364000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+191462000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+191282000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+191398000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+191396000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+191243000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+191167000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+191216000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+189364000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+189192000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+189046000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+185710000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+187166000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+187159000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+187142000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+186803000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+186388000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+186523000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+186411000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+186388000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+186411000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+186435000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+186427000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+185568000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+187672000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+185739000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+185728000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+185688000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+185547000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+185533000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+185568000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+185521000000.0,Paid Search,Connected,Note redacted for privacy compliance,0.0
+185384000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+185292000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+184403000000.0,Direct Traffic,Connected,Note redacted for privacy compliance,0.0
+185241000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+187250000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+187673000000.0,Paid Search,Connected,Note redacted for privacy compliance,0.0
+187209000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+182655000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+188937000000.0,Offline Sources,Open Deal,Note redacted for privacy compliance,0.0
+188902000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+188772000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+188744000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+188736000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+188733000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+188602000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+188533000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+188503000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+188460000000.0,Organic Search,New,Note redacted for privacy compliance,0.0
+188450000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+188420000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+187697000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+188425000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+188412000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+188059000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+187919000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+187875000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+187857000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+187854000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+187839000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+187771000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+187776000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+187701000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+175191000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+174967000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+160180000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+165993000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+163537000000.0,Organic Search,New,Note redacted for privacy compliance,0.0
+163492000000.0,Direct Traffic,New,Note redacted for privacy compliance,0.0
+163298000000.0,Organic Search,New,Note redacted for privacy compliance,0.0
+163238000000.0,Organic Search,Connected,Note redacted for privacy compliance,0.0
+162846000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+163028000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+162846000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+162921000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+162846000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+162817000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+162721000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+162798000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+162494000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+162494000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+162719000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+162498000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+162478000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+162494000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+162427000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+162411000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+162408000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+161958000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+161825000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+161825000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+161958000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+163869000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+163869000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+163869000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+164993000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+165993000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+165775000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+165922000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+165775000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+165667000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+165571000000.0,Direct Traffic,New,Note redacted for privacy compliance,0.0
+165142000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+165020000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+165019000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+165020000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+165020000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+164702000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+163869000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+164325000000.0,Organic Search,New,Note redacted for privacy compliance,0.0
+164165000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+164242000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+164218000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+164165000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+164171000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+164040000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+164040000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+164040000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+163870000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+164011000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+161920000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+161841000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+161665000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160435000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.0
+160856000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160713000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160689000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+160610000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160606000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160579000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160575000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+160571000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160521000000.0,Paid Search,New,Note redacted for privacy compliance,0.0
+160469000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160440000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160434000000.0,Paid Search,Connected,Note redacted for privacy compliance,0.0
+160875000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+160273000000.0,Direct Traffic,New,Note redacted for privacy compliance,0.0
+160180000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160171000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160123000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160153000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160171000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160168000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160173000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+192374000000.0,,Unqualified,Note redacted for privacy compliance,0.0
+160179000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160109000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+160861000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160913000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+161720000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+161022000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+161646000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+161755000000.0,Organic Search,New,Note redacted for privacy compliance,0.0
+161646000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+161502000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+161697000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+161582000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+161457000000.0,Other Campaigns,Unqualified,Note redacted for privacy compliance,0.0
+161355000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+161320000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+161027000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+161034000000.0,Paid Search,New,Note redacted for privacy compliance,0.0
+161016000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160926000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+161009000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+161011000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+161003000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160993000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160999000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160992000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+160990000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+160708000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+160963000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+160722000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+160939000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+165964000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+165993000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+174942000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+165970000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+170710000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+173929000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+173585000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+173590000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+173118000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+173117000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+173117000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172750000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+172925000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172924000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172750000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172710000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+172632000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+172613000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172613000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172669000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+172613000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+172631000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172651000000.0,Organic Search,Unqualified,Note redacted for privacy compliance,0.0
+172613000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172613000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172370000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172233000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172194000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+172233000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+174153000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+174038000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+174482000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174595000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+174940000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+174940000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+174929000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+174901000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+169934000000.0,Referrals,Unqualified,Note redacted for privacy compliance,0.0
+174841000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+174736000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174830000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+174761000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+174822000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+174604000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+174597000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+174468000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+174563000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+174527000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+174523000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174523000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174442000000.0,Offline Sources,In Progress,Note redacted for privacy compliance,0.0
+174442000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+174499000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174496000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+174442000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+174442000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+174467000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172322000000.0,Paid Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+172194000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+172265000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+167240000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+169628000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+157256000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+169536000000.0,Paid Search,Connected,Note redacted for privacy compliance,0.0
+169149000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+169149000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+169315000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+169185000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+168670000000.0,Direct Traffic,,Note redacted for privacy compliance,0.0
+168215000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+167538000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+167453000000.0,Organic Social,Attempted to Contact,Note redacted for privacy compliance,0.0
+167240000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+169861000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+167240000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.0
+166322000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+165637000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+166157000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+166267000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+166314000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+166157000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+166322000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+166065000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+156526000000.0,Organic Search,Connected,Note redacted for privacy compliance,0.0
+166268000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+169889000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+169860000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+172211000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+171134000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+172204000000.0,Organic Social,Connected,Note redacted for privacy compliance,0.0
+171349000000.0,Other Campaigns,Unqualified,Note redacted for privacy compliance,0.0
+172015000000.0,Paid Search,,Note redacted for privacy compliance,0.0
+171956000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+171956000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+171930000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+171927000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+171905000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+159881000000.0,Organic Search,,Note redacted for privacy compliance,0.0
+171525000000.0,Direct Traffic,Attempted to Contact,Note redacted for privacy compliance,0.0
+163297000000.0,Direct Traffic,Unqualified,Note redacted for privacy compliance,0.0
+171057000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+169918000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+171048000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+170947000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+171010000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+170784000000.0,Offline Sources,Connected,Note redacted for privacy compliance,0.0
+171010000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+170814000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+167257000000.0,Paid Search,Unqualified,Note redacted for privacy compliance,0.0
+170497000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
+170330000000.0,Offline Sources,Unqualified,Note redacted for privacy compliance,0.0
+169889000000.0,Offline Sources,Attempted to Contact,Note redacted for privacy compliance,0.0
+169889000000.0,Offline Sources,Discovery Completed,Note redacted for privacy compliance,0.0
+145812000000.0,Organic Search,Attempted to Contact,Note redacted for privacy compliance,0.0
