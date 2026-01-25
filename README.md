@@ -26,9 +26,9 @@ The Confusion Matrix below represents the model's performance at a conservative 
 | **Actually High Intent** | **174** (False Negatives) | **6** (True Positives) |
 
 #### Key Strategic Insights:
-* **Noise Reduction:** The model is exceptionally strong at identifying and filtering out "looky-loos." It correctly identified **99% of low-intent leads**, protecting our field agents from wasted trips.
-* **Conservative Thresholding:** The current settings are tuned for **High Precision**. This means that when the AI flags a lead as "High Intent," we can be almost certain they are a "warm" opportunity.
-* **Operational Flexibility:** Because the model provides a raw **Propensity Score (0-1)**, the "threshold" can be adjusted based on business needs. For example, if field agents have a light schedule, we can lower the threshold to capture more of the "Actual High Intent" leads that the current strict filter misses. 
+* **Noise Reduction:** The model is exceptionally strong at identifying and filtering out "looky-loos." It correctly identified 99% of low-intent leads, protecting the sales team from hundreds of hours of unproductive outreach.
+* **Conservative Thresholding:** The current settings are tuned for High Precision. This means that when the AI flags a lead as "High Intent," we can be almost certain they are a "warm" opportunity ready for a discovery call.
+* **Operational Flexibility:** Because the model provides a raw **Propensity Score (0-1)**, the "threshold" can be adjusted based on business needs. For example, during low-occupancy periods, the threshold can be lowered to capture more potential leads that a strict filter might miss. 
 
 **Operational Strategy:**
 In a production environment (like our Field App), agents would not use this as a "Yes/No" switch. Instead, they would **sort their daily route by the Propensity Score**, focusing their energy on the top 10-20% of the ranked list where the highest concentration of "Ready-to-Buy" customers exists.
