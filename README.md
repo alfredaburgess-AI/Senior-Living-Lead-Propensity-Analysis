@@ -31,7 +31,7 @@ The Confusion Matrix below represents the model's performance at a conservative 
 * **Operational Flexibility:** Because the model provides a raw **Propensity Score (0-1)**, the "threshold" can be adjusted based on business needs. For example, during low-occupancy periods, the threshold can be lowered to capture more potential leads that a strict filter might miss. 
 
 **Operational Strategy:**
-In a production environment (like our Field App), agents would not use this as a "Yes/No" switch. Instead, they would **sort their daily route by the Propensity Score**, focusing their energy on the top 10-20% of the ranked list where the highest concentration of "Ready-to-Buy" customers exists.
+In a production environment, sales counselors would not use this as a simple "Yes/No" switch. Instead, they would **sort their CRM views (such as HubSpot or MatrixCare) by the Propensity Score**. This allows them to focus their energy on the top 10-20% of the ranked list, where the highest concentration of families ready to make a move exists.
 
 ---
 
